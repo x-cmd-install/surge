@@ -2,22 +2,22 @@ about:
   description: "Blazing fast TUI download manager built in Go for power users"
   license: MIT
   homepage: https://surgedm.github.io
-  head: 137b3bc
+  head: 379fc4f
   archived: false
   latestVersion: "v0.12.1"
-  collectedAt: 2026-09-07T05:00:43Z
+  collectedAt: 2026-09-07T19:32:56Z
 timeline:
   created: 2025-10-29
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-26
 popularity:
-  star: 3508
+  star: 3509
   watcher: 12
-  fork: 150
+  fork: 151
   release: 62
   contributor: 33
   pullRequest: 424
-  issue: 201
+  issue: 202
 language:
   Go: 1873133
   TypeScript: 169173
@@ -80,14 +80,14 @@ recent:
     commit: 0
 total:
   release: 62
-  mergedPR: 322
-  openPR: 18
+  mergedPR: 324
+  openPR: 16
   closedIssue: 163
-  openIssue: 38
-  commit: 576
+  openIssue: 39
+  commit: 578
 ---
 path: /home/runner/.x-repo/github.com/surge-downloader/surge
-collectedAt: 2026-09-07T05:00:47Z
+collectedAt: 2026-09-07T19:32:58Z
 loc:
   Go:
     code: 53606
@@ -163,7 +163,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:00:49+00:00
+  collectedAt: 2026-09-07T19:32:59+00:00
   platform:
     darwin/arm64:
       name:  Surge_0.12.1_darwin_arm64.tar.gz
