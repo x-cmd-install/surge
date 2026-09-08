@@ -5,7 +5,7 @@ about:
   head: 379fc4f
   archived: false
   latestVersion: "v0.12.1"
-  collectedAt: 2026-09-08T02:10:02Z
+  collectedAt: 2026-09-08T05:00:42Z
 timeline:
   created: 2025-10-29
   lastCommit: 2026-09-07
@@ -87,7 +87,7 @@ total:
   commit: 578
 ---
 path: /home/runner/.x-repo/github.com/surge-downloader/surge
-collectedAt: 2026-09-08T02:10:06Z
+collectedAt: 2026-09-08T05:00:47Z
 loc:
   Go:
     code: 53606

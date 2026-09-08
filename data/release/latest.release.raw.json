@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5895160,
       "digest": "sha256:954aa56b4e1776081e20f4d45ba7a6f1f90bfa5e4c5dad72e8814ed49da8b3ce",
-      "download_count": 190,
+      "download_count": 191,
       "created_at": "2026-08-26T06:23:15Z",
       "updated_at": "2026-08-26T06:23:16Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.1/Surge_0.12.1_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6344760,
       "digest": "sha256:ff409af731c65bd9732fc209b2aa46245cbed425d41fa488e149f4d9a0dfbe38",
-      "download_count": 397,
+      "download_count": 398,
       "created_at": "2026-08-26T06:23:15Z",
       "updated_at": "2026-08-26T06:23:16Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.1/Surge_0.12.1_linux_amd64.tar.gz"
