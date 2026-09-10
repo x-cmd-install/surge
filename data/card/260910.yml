@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.12.1"
   latestRelease: "v0.12.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:02:08Z
+  collectedAt: 2026-09-10T16:52:21Z
 timeline:
   created: 2025-10-29
   lastCommit: 2026-09-07
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-26
   lastPrerelease: 
 popularity:
-  star: 3516
+  star: 3517
   watcher: 12
   fork: 152
   release: 62
   contributor: 33
-  pullRequest: 427
+  pullRequest: 428
   issue: 203
 language:
   Go: 1873133
@@ -85,13 +85,13 @@ recent:
 total:
   release: 62
   mergedPR: 324
-  openPR: 19
+  openPR: 20
   closedIssue: 163
   openIssue: 40
   commit: 578
 ---
 path: /home/runner/.x-repo/github.com/surge-downloader/surge
-collectedAt: 2026-09-10T05:02:11Z
+collectedAt: 2026-09-10T16:52:28Z
 loc:
   Go:
     code: 53606
