@@ -4,7 +4,7 @@
 
 Blazing fast TUI download manager built in Go for power users
 
-![surge](https://repo.x-cmd.io/surge.svg)
+![surge](https://repo.x-cmd.io/surge.svg?lang=zh)
 
 ## 安装
 
@@ -23,15 +23,30 @@ x install surge
 - **最新版本**: `v0.12.1` (2026-08-26)
 - **最近提交**: 2026-09-07
 - **Release 含资产**: 11 个
-- **发布时间**: 2026-08-26T06:23:17Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [fonts.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.1/fonts.zip) | 5.3 MiB | `other` |
+| [Surge_0.12.1_checksums.txt](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_checksums.txt) | 779 B | `other` |
+| [Surge_0.12.1_darwin_amd64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_darwin_amd64.tar.gz) | 6.0 MiB | `native/darwin/x64` |
+| [Surge_0.12.1_darwin_arm64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_darwin_arm64.tar.gz) | 5.6 MiB | `native/darwin/arm64` |
+| [Surge_0.12.1_linux_386.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_linux_386.tar.gz) | 5.8 MiB | `native/unknown` |
+| [Surge_0.12.1_linux_amd64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_linux_amd64.tar.gz) | 6.1 MiB | `native/linux/x64` |
+| [Surge_0.12.1_linux_arm64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_linux_arm64.tar.gz) | 5.5 MiB | `native/linux/arm64` |
+| [Surge_0.12.1_windows_386.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_windows_386.zip) | 6.0 MiB | `native/win/x64` |
+| [Surge_0.12.1_windows_amd64.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_windows_amd64.zip) | 6.1 MiB | `native/win/x64` |
+| [Surge_0.12.1_windows_arm64.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_windows_arm64.zip) | 5.6 MiB | `native/win/arm64` |
+| [themes.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.1/themes.zip) | 2.2 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 3,516 · **Fork**: 152 · **开放 issue**: 203 · **贡献者**: 33
+- **Star**: 3,517 · **Fork**: 152 · **开放 issue**: 203 · **贡献者**: 33
 
 ## 累计统计
 
-- **发布数**: 62 · **已合并 PR**: 324 · **开放 PR**: 19 · **已关闭 issue**: 163 · **开放 issue**: 40 · **提交数**: 578
+- **发布数**: 62 · **已合并 PR**: 324 · **开放 PR**: 20 · **已关闭 issue**: 163 · **开放 issue**: 40 · **提交数**: 578
 
 ## 最近活动
 
@@ -62,4 +77,4 @@ surge 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:02:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:52:44Z._
