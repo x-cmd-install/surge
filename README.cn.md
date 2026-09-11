@@ -42,7 +42,7 @@ x install surge
 
 ## 累计统计
 
-- **发布数**: 62 · **已合并 PR**: 324 · **开放 PR**: 20 · **已关闭 issue**: 163 · **开放 issue**: 40 · **提交数**: 578
+- **发布数**: 62 · **已合并 PR**: 324 · **开放 PR**: 21 · **已关闭 issue**: 163 · **开放 issue**: 40 · **提交数**: 578
 
 ## 最近活动
 
@@ -80,4 +80,4 @@ surge 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T00:07:34Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T04:58:46Z._

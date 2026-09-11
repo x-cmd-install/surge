@@ -42,7 +42,7 @@ Total: **64,396** lines of code across **337** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 324 · **Open PRs**: 20 · **Closed issues**: 163 · **Open issues**: 40 · **Commits**: 578
+- **Releases**: 62 · **Merged PRs**: 324 · **Open PRs**: 21 · **Closed issues**: 163 · **Open issues**: 40 · **Commits**: 578
 
 ## Recent activity
 
@@ -80,4 +80,4 @@ Install metadata for surge lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:07:33Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:58:45Z._
