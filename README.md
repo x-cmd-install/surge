@@ -12,6 +12,18 @@ Blazing fast TUI download manager built in Go for power users
 x install surge
 ```
 
+## Code insight
+
+Total: **64,396** lines of code across **337** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 53,606 | 3,686 | 8,700 | 308 |
+| Json | 5,315 | 0 | 0 | 3 |
+| TypeScript | 3,059 | 205 | 498 | 17 |
+| Tsx | 1,001 | 4 | 96 | 8 |
+| Css | 941 | 18 | 152 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/surge-downloader/surge>
@@ -23,6 +35,25 @@ x install surge
 - **Latest**: `v0.12.1` (2026-08-26)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 11
+
+## Popularity
+
+- **Stars**: 3,516 · **Forks**: 152 · **Open issues**: 203 · **Contributors**: 33
+
+## Totals (cumulative)
+
+- **Releases**: 62 · **Merged PRs**: 324 · **Open PRs**: 20 · **Closed issues**: 163 · **Open issues**: 40 · **Commits**: 578
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 29 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 62 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 62 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -40,34 +71,6 @@ x install surge
 | [Surge_0.12.1_windows_arm64.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_windows_arm64.zip) | 5.6 MiB | `native/win/arm64` |
 | [themes.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.1/themes.zip) | 2.2 KiB | `other` |
 
-## Popularity
-
-- **Stars**: 3,517 · **Forks**: 152 · **Open issues**: 203 · **Contributors**: 33
-
-## Totals (cumulative)
-
-- **Releases**: 62 · **Merged PRs**: 324 · **Open PRs**: 20 · **Closed issues**: 163 · **Open issues**: 40 · **Commits**: 578
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 62 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **64,396** lines of code across **337** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 53,606 | 3,686 | 8,700 | 308 |
-| Json | 5,315 | 0 | 0 | 3 |
-| TypeScript | 3,059 | 205 | 498 | 17 |
-| Tsx | 1,001 | 4 | 96 | 8 |
-| Css | 941 | 18 | 152 | 1 |
-
 ## Improve this data
 
 Install metadata for surge lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `surge` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +80,4 @@ Install metadata for surge lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:52:43Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:07:33Z._
