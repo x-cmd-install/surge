@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5523214,
       "digest": "sha256:f6a3da96ca55eee0ed7089859863748d2649fdae865c90f5c5ec109e42b12929",
-      "download_count": 17,
+      "download_count": 20,
       "created_at": "2026-08-26T06:23:16Z",
       "updated_at": "2026-08-26T06:23:17Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.1/fonts.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5895160,
       "digest": "sha256:954aa56b4e1776081e20f4d45ba7a6f1f90bfa5e4c5dad72e8814ed49da8b3ce",
-      "download_count": 229,
+      "download_count": 237,
       "created_at": "2026-08-26T06:23:15Z",
       "updated_at": "2026-08-26T06:23:16Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.1/Surge_0.12.1_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6085196,
       "digest": "sha256:fde5ca3d5377eae6ecbfb5758324a0e23e2672e7240dec51f99de92ef9e3507a",
-      "download_count": 19,
+      "download_count": 21,
       "created_at": "2026-08-26T06:23:14Z",
       "updated_at": "2026-08-26T06:23:15Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.1/Surge_0.12.1_linux_386.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6344760,
       "digest": "sha256:ff409af731c65bd9732fc209b2aa46245cbed425d41fa488e149f4d9a0dfbe38",
-      "download_count": 459,
+      "download_count": 474,
       "created_at": "2026-08-26T06:23:15Z",
       "updated_at": "2026-08-26T06:23:16Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.1/Surge_0.12.1_linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5815578,
       "digest": "sha256:b177246288c0233ee27b69d78aeb58cc2cc8481b7cb842bf8e5f567c999deaf3",
-      "download_count": 26,
+      "download_count": 28,
       "created_at": "2026-08-26T06:23:15Z",
       "updated_at": "2026-08-26T06:23:16Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.1/Surge_0.12.1_linux_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6253953,
       "digest": "sha256:ec095f1e1b007841d73a56b7b1b1bb82ef622a441787391730fcc59e5ed09d1f",
-      "download_count": 67,
+      "download_count": 72,
       "created_at": "2026-08-26T06:23:14Z",
       "updated_at": "2026-08-26T06:23:15Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.1/Surge_0.12.1_windows_386.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6444629,
       "digest": "sha256:c10d4694380f7b485d2fea3b37bfd6acc40cf335f33de849b7f5ac68b671a90c",
-      "download_count": 458,
+      "download_count": 478,
       "created_at": "2026-08-26T06:23:14Z",
       "updated_at": "2026-08-26T06:23:15Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.1/Surge_0.12.1_windows_amd64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5833573,
       "digest": "sha256:311496a5d61fb4ff8351fcf7e066a6dca24bb4a2cbea733f1c0c676652efb016",
-      "download_count": 41,
+      "download_count": 43,
       "created_at": "2026-08-26T06:23:14Z",
       "updated_at": "2026-08-26T06:23:15Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.1/Surge_0.12.1_windows_arm64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2252,
       "digest": "sha256:c511847a4686b7077480681e9bdf46147459462fdb1565b5c28e3cc5cc0a5eae",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-08-26T06:23:16Z",
       "updated_at": "2026-08-26T06:23:16Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.1/themes.zip"
