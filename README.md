@@ -4,7 +4,7 @@
 
 Blazing fast TUI download manager built in Go for power users
 
-![surge](https://repo.x-cmd.io/surge.svg)
+[![x-cmd/install — surge Code Quality Monitoring Repo Card](https://repo.x-cmd.io/surge.svg)](https://x-cmd.com/install/surge)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install surge
 
 ## Code insight
 
-Total: **64,486** lines of code across **337** files in the top 5 languages.
+Total: **64,926** lines of code across **337** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 53,606 | 3,686 | 8,700 | 308 |
+| Go | 54,046 | 3,704 | 8,754 | 308 |
 | Json | 5,405 | 0 | 0 | 3 |
 | TypeScript | 3,059 | 205 | 498 | 17 |
 | Tsx | 1,001 | 4 | 96 | 8 |
@@ -33,27 +33,27 @@ Total: **64,486** lines of code across **337** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.12.1` (2026-08-26)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-18
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 3,528 · **Forks**: 152 · **Open issues**: 205 · **Contributors**: 33
+- **Stars**: 3,530 · **Forks**: 152 · **Open issues**: 207 · **Contributors**: 33
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 328 · **Open PRs**: 19 · **Closed issues**: 163 · **Open issues**: 42 · **Commits**: 582
+- **Releases**: 62 · **Merged PRs**: 330 · **Open PRs**: 17 · **Closed issues**: 163 · **Open issues**: 44 · **Commits**: 584
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 24 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 62 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 62 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 24 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 62 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 62 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for surge lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:09:54Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:36:43Z._
