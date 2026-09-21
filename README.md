@@ -14,13 +14,13 @@ x install surge
 
 ## Code insight
 
-Total: **64,926** lines of code across **337** files in the top 5 languages.
+Total: **65,342** lines of code across **339** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 54,046 | 3,704 | 8,754 | 308 |
-| Json | 5,405 | 0 | 0 | 3 |
-| TypeScript | 3,059 | 205 | 498 | 17 |
+| Go | 54,360 | 3,709 | 8,778 | 309 |
+| Json | 5,394 | 0 | 0 | 3 |
+| TypeScript | 3,172 | 205 | 509 | 18 |
 | Tsx | 1,001 | 4 | 96 | 8 |
 | Css | 941 | 18 | 152 | 1 |
 
@@ -32,44 +32,37 @@ Total: **64,926** lines of code across **337** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.12.1` (2026-08-26)
-- **Last commit**: 2026-09-18
-- **Assets in release**: 11
+- **Latest**: `ext-v2.1.3` (2026-09-20)
+- **Last commit**: 2026-09-20
+- **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 3,530 · **Forks**: 152 · **Open issues**: 207 · **Contributors**: 33
+- **Stars**: 3,531 · **Forks**: 152 · **Open issues**: 207 · **Contributors**: 33
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 330 · **Open PRs**: 17 · **Closed issues**: 163 · **Open issues**: 44 · **Commits**: 584
+- **Releases**: 63 · **Merged PRs**: 342 · **Open PRs**: 11 · **Closed issues**: 166 · **Open issues**: 41 · **Commits**: 596
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-22 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-24 | 24 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-25 | 62 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-30 | 62 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-23 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-25 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-26 | 63 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-01 | 63 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [fonts.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.1/fonts.zip) | 5.3 MiB | `other` |
-| [Surge_0.12.1_checksums.txt](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_checksums.txt) | 779 B | `other` |
-| [Surge_0.12.1_darwin_amd64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_darwin_amd64.tar.gz) | 6.0 MiB | `native/darwin/x64` |
-| [Surge_0.12.1_darwin_arm64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_darwin_arm64.tar.gz) | 5.6 MiB | `native/darwin/arm64` |
-| [Surge_0.12.1_linux_386.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_linux_386.tar.gz) | 5.8 MiB | `native/unknown` |
-| [Surge_0.12.1_linux_amd64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_linux_amd64.tar.gz) | 6.1 MiB | `native/linux/x64` |
-| [Surge_0.12.1_linux_arm64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_linux_arm64.tar.gz) | 5.5 MiB | `native/linux/arm64` |
-| [Surge_0.12.1_windows_386.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_windows_386.zip) | 6.0 MiB | `native/win/x64` |
-| [Surge_0.12.1_windows_amd64.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_windows_amd64.zip) | 6.1 MiB | `native/win/x64` |
-| [Surge_0.12.1_windows_arm64.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.1/Surge_0.12.1_windows_arm64.zip) | 5.6 MiB | `native/win/arm64` |
-| [themes.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.1/themes.zip) | 2.2 KiB | `other` |
+| [surge-extension-2.1.3-chrome.zip](https://github.com/surge-downloader/surge/releases/download/ext-v2.1.3/surge-extension-2.1.3-chrome.zip) | 55.0 KiB | `other` |
+| [surge-extension-2.1.3-edge.zip](https://github.com/surge-downloader/surge/releases/download/ext-v2.1.3/surge-extension-2.1.3-edge.zip) | 55.0 KiB | `other` |
+| [surge-extension-2.1.3-firefox.zip](https://github.com/surge-downloader/surge/releases/download/ext-v2.1.3/surge-extension-2.1.3-firefox.zip) | 55.1 KiB | `other` |
+| [surge-extension-2.1.3-sources.zip](https://github.com/surge-downloader/surge/releases/download/ext-v2.1.3/surge-extension-2.1.3-sources.zip) | 105.5 KiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +73,4 @@ Install metadata for surge lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:36:43Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:16:51Z._
