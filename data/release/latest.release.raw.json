@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 56319,
       "digest": "sha256:a4e18fc29da0c752af582b5e25a813ed091cdd2e251fe47722188201563b138b",
-      "download_count": 1,
+      "download_count": 16,
       "created_at": "2026-09-20T19:06:41Z",
       "updated_at": "2026-09-20T19:06:41Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/ext-v2.1.3/surge-extension-2.1.3-chrome.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 56319,
       "digest": "sha256:a4e18fc29da0c752af582b5e25a813ed091cdd2e251fe47722188201563b138b",
-      "download_count": 1,
+      "download_count": 6,
       "created_at": "2026-09-20T19:06:41Z",
       "updated_at": "2026-09-20T19:06:41Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/ext-v2.1.3/surge-extension-2.1.3-edge.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 56396,
       "digest": "sha256:664755156384e1418e11dfa34985ae2a9ab0a3f773eaf0ad3ecfd010df834e12",
-      "download_count": 1,
+      "download_count": 6,
       "created_at": "2026-09-20T19:06:41Z",
       "updated_at": "2026-09-20T19:06:41Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/ext-v2.1.3/surge-extension-2.1.3-firefox.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 108074,
       "digest": "sha256:2302f886feb20557f085493bad6105eebb55c6606a5e36588660b4ff77f6fee3",
-      "download_count": 1,
+      "download_count": 6,
       "created_at": "2026-09-20T19:06:41Z",
       "updated_at": "2026-09-20T19:06:41Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/ext-v2.1.3/surge-extension-2.1.3-sources.zip"
@@ -183,5 +183,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/SurgeDM/Surge/tarball/ext-v2.1.3",
   "zipball_url": "https://api.github.com/repos/SurgeDM/Surge/zipball/ext-v2.1.3",
-  "body": "## Extension changes\n\n- ci(extension): scope release changelog ([1cda312](https://github.com/SurgeDM/Surge/commit/1cda3124264a7d16f7263ba8628db01b942ac5d1))\n- fix(ci): normalize Chrome service account key ([bed8efb](https://github.com/SurgeDM/Surge/commit/bed8efbb7eff3a664db8ee1838b839876dd33547))\n- ci(extension): use Chrome Web Store API v2 ([a42c762](https://github.com/SurgeDM/Surge/commit/a42c762a9a4f66d71f49081c4875d73eeb8df59b))\n- fix(extension): restore toolbar icon and show active badge (#663) ([cb133b8](https://github.com/SurgeDM/Surge/commit/cb133b8af11a73f1ebf7d38a034a1b8152957dbd))\n- chore(deps-dev): bump @types/node from 26.2.0 to 26.6.1 in /extension (#654) ([b5397fe](https://github.com/SurgeDM/Surge/commit/b5397fed98ad921e251b9739641dd33dcede0ef5))\n- chore(deps-dev): bump eslint-plugin-solid from 0.15.0 to 0.18.0 in /extension (#656) ([b37747b](https://github.com/SurgeDM/Surge/commit/b37747b9c22069bcc4082485c7c4317b4881398d))\n- chore(deps): bump solid-js from 1.9.14 to 1.9.15 in /extension (#625) ([95e8e8a](https://github.com/SurgeDM/Surge/commit/95e8e8a6ed35e1168112ff326037984d3b74bff1))\n- chore(deps-dev): bump @typescript-eslint/parser from 8.67.0 to 8.70.0 in /extension (#657) ([363232c](https://github.com/SurgeDM/Surge/commit/363232c92144cf85c698974a42b0f312ae402c8a))\n- chore(deps-dev): bump vitest from 4.1.11 to 5.0.0 in /extension (#655) ([52572c7](https://github.com/SurgeDM/Surge/commit/52572c7403d79f0b273e96e4337dcab2f8861cd1))\n- fix(extension): normalize listed download speed (#661) ([0213a96](https://github.com/SurgeDM/Surge/commit/0213a96f5aa2ca05a0156a51ab23df7b3590e341))\n- chore(deps-dev): bump eslint from 10.8.1 to 10.10.0 in /extension (#630) ([3da9655](https://github.com/SurgeDM/Surge/commit/3da9655f786ce6114663035a5ce9115001184f0e))\n- chore(deps): bump @vitest/mocker and vitest in /extension (#650) ([8f721d5](https://github.com/SurgeDM/Surge/commit/8f721d5064666507ed69ca21954d97fa090fa4d1))\n- chore(deps-dev): bump browserslist from 4.28.4 to 4.28.9 in /extension (#643) ([b7b8925](https://github.com/SurgeDM/Surge/commit/b7b892508b442697e141adcd935efe688c39f4c9))\n- chore(deps-dev): bump baseline-browser-mapping from 2.10.40 to 2.11.22 in /extension (#651) ([54adbc9](https://github.com/SurgeDM/Surge/commit/54adbc9308c2cecb3e58441a48ee91bcf1cbae56))"
+  "body": "## Extension changes\n\n- ci(extension): scope release changelog ([1cda312](https://github.com/SurgeDM/Surge/commit/1cda3124264a7d16f7263ba8628db01b942ac5d1))\n- fix(ci): normalize Chrome service account key ([bed8efb](https://github.com/SurgeDM/Surge/commit/bed8efbb7eff3a664db8ee1838b839876dd33547))\n- ci(extension): use Chrome Web Store API v2 ([a42c762](https://github.com/SurgeDM/Surge/commit/a42c762a9a4f66d71f49081c4875d73eeb8df59b))\n- fix(extension): restore toolbar icon and show active badge (#663) ([cb133b8](https://github.com/SurgeDM/Surge/commit/cb133b8af11a73f1ebf7d38a034a1b8152957dbd))\n- chore(deps-dev): bump @types/node from 26.2.0 to 26.6.1 in /extension (#654) ([b5397fe](https://github.com/SurgeDM/Surge/commit/b5397fed98ad921e251b9739641dd33dcede0ef5))\n- chore(deps-dev): bump eslint-plugin-solid from 0.15.0 to 0.18.0 in /extension (#656) ([b37747b](https://github.com/SurgeDM/Surge/commit/b37747b9c22069bcc4082485c7c4317b4881398d))\n- chore(deps): bump solid-js from 1.9.14 to 1.9.15 in /extension (#625) ([95e8e8a](https://github.com/SurgeDM/Surge/commit/95e8e8a6ed35e1168112ff326037984d3b74bff1))\n- chore(deps-dev): bump @typescript-eslint/parser from 8.67.0 to 8.70.0 in /extension (#657) ([363232c](https://github.com/SurgeDM/Surge/commit/363232c92144cf85c698974a42b0f312ae402c8a))\n- chore(deps-dev): bump vitest from 4.1.11 to 5.0.0 in /extension (#655) ([52572c7](https://github.com/SurgeDM/Surge/commit/52572c7403d79f0b273e96e4337dcab2f8861cd1))\n- fix(extension): normalize listed download speed (#661) ([0213a96](https://github.com/SurgeDM/Surge/commit/0213a96f5aa2ca05a0156a51ab23df7b3590e341))\n- chore(deps-dev): bump eslint from 10.8.1 to 10.10.0 in /extension (#630) ([3da9655](https://github.com/SurgeDM/Surge/commit/3da9655f786ce6114663035a5ce9115001184f0e))\n- chore(deps): bump @vitest/mocker and vitest in /extension (#650) ([8f721d5](https://github.com/SurgeDM/Surge/commit/8f721d5064666507ed69ca21954d97fa090fa4d1))\n- chore(deps-dev): bump browserslist from 4.28.4 to 4.28.9 in /extension (#643) ([b7b8925](https://github.com/SurgeDM/Surge/commit/b7b892508b442697e141adcd935efe688c39f4c9))\n- chore(deps-dev): bump baseline-browser-mapping from 2.10.40 to 2.11.22 in /extension (#651) ([54adbc9](https://github.com/SurgeDM/Surge/commit/54adbc9308c2cecb3e58441a48ee91bcf1cbae56))",
+  "reactions": {
+    "url": "https://api.github.com/repos/SurgeDM/Surge/releases/392528744/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
