@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5963304,
       "digest": "sha256:d08f33941f4a845dc8316f04bd88310baf49cfd0a68118ff18d76b614a9c98ff",
-      "download_count": 175,
+      "download_count": 183,
       "created_at": "2026-09-22T17:51:03Z",
       "updated_at": "2026-09-22T17:51:04Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.2/Surge_0.12.2_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6432001,
       "digest": "sha256:a5b212536ac32e2472ab512dcd3c740ad28227a11936e0f73625feda6de9830f",
-      "download_count": 345,
+      "download_count": 363,
       "created_at": "2026-09-22T17:51:04Z",
       "updated_at": "2026-09-22T17:51:05Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.2/Surge_0.12.2_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 7223800,
       "digest": "sha256:41ddbc13861bd4774b4d5edcf74efb3b4ea957dee712d2afabfb514832276820",
-      "download_count": 50,
+      "download_count": 57,
       "created_at": "2026-09-22T17:58:50Z",
       "updated_at": "2026-09-22T17:58:58Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.2/Surge_0.12.2_linux_x86_64.AppImage"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 21406,
       "digest": "sha256:b87568bc3f18492a9b6988b55909aceb44cb6432ed792470cb42b01e62f0397e",
-      "download_count": 12,
+      "download_count": 15,
       "created_at": "2026-09-22T17:58:50Z",
       "updated_at": "2026-09-22T17:58:51Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.2/Surge_0.12.2_linux_x86_64.AppImage.zsync"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 6537224,
       "digest": "sha256:79a6fd88c024f1755c76dc72e737210925cbd3aa187cb5c7bedcd1ea9d3a96f4",
-      "download_count": 397,
+      "download_count": 419,
       "created_at": "2026-09-22T17:51:05Z",
       "updated_at": "2026-09-22T17:51:05Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.2/Surge_0.12.2_windows_amd64.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2252,
       "digest": "sha256:9dee271e233d96d181f0d94dd31a89c379a3e046c163c825f4583c9bd4bfcf46",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-09-22T17:51:05Z",
       "updated_at": "2026-09-22T17:51:06Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.12.2/themes.zip"
