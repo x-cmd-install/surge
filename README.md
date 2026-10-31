@@ -14,11 +14,11 @@ x install surge
 
 ## Code insight
 
-Total: **83,722** lines of code across **445** files in the top 5 languages.
+Total: **83,925** lines of code across **446** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 71,841 | 3,949 | 9,832 | 409 |
+| Go | 72,044 | 3,950 | 9,837 | 410 |
 | Json | 6,058 | 0 | 0 | 9 |
 | TypeScript | 3,239 | 205 | 516 | 18 |
 | Tsx | 1,020 | 4 | 96 | 8 |
@@ -32,46 +32,46 @@ Total: **83,722** lines of code across **445** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.12.3` (2026-10-22)
-- **Last commit**: 2026-10-29
+- **Latest**: `v0.12.4` (2026-10-31)
+- **Last commit**: 2026-10-31
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 3,610 · **Forks**: 157 · **Open issues**: 222 · **Contributors**: 35
+- **Stars**: 3,610 · **Forks**: 159 · **Open issues**: 223 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 413 · **Open PRs**: 7 · **Closed issues**: 183 · **Open issues**: 39 · **Commits**: 665
+- **Releases**: 66 · **Merged PRs**: 414 · **Open PRs**: 7 · **Closed issues**: 183 · **Open issues**: 40 · **Commits**: 666
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-01 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-03 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-04 | 65 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-09 | 65 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-01 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-01 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-02 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-04 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-05 | 66 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-10 | 66 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [fonts.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.3/fonts.zip) | 5.3 MiB | `other` |
-| [Surge_0.12.3_checksums.txt](https://github.com/surge-downloader/surge/releases/download/v0.12.3/Surge_0.12.3_checksums.txt) | 779 B | `other` |
-| [Surge_0.12.3_darwin_amd64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.3/Surge_0.12.3_darwin_amd64.tar.gz) | 6.1 MiB | `native/darwin/x64` |
-| [Surge_0.12.3_darwin_arm64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.3/Surge_0.12.3_darwin_arm64.tar.gz) | 5.7 MiB | `native/darwin/arm64` |
-| [Surge_0.12.3_linux_386.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.3/Surge_0.12.3_linux_386.tar.gz) | 5.9 MiB | `native/unknown` |
-| [Surge_0.12.3_linux_amd64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.3/Surge_0.12.3_linux_amd64.tar.gz) | 6.1 MiB | `native/linux/x64` |
-| [Surge_0.12.3_linux_arm64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.3/Surge_0.12.3_linux_arm64.tar.gz) | 5.6 MiB | `native/linux/arm64` |
-| [Surge_0.12.3_linux_x86_64.AppImage](https://github.com/surge-downloader/surge/releases/download/v0.12.3/Surge_0.12.3_linux_x86_64.AppImage) | 6.9 MiB | `native/linux/x64` |
-| [Surge_0.12.3_linux_x86_64.AppImage.zsync](https://github.com/surge-downloader/surge/releases/download/v0.12.3/Surge_0.12.3_linux_x86_64.AppImage.zsync) | 20.9 KiB | `native/linux/x64` |
-| [Surge_0.12.3_windows_386.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.3/Surge_0.12.3_windows_386.zip) | 6.1 MiB | `native/win/x64` |
-| [Surge_0.12.3_windows_amd64.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.3/Surge_0.12.3_windows_amd64.zip) | 6.3 MiB | `native/win/x64` |
-| [Surge_0.12.3_windows_arm64.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.3/Surge_0.12.3_windows_arm64.zip) | 5.7 MiB | `native/win/arm64` |
-| [themes.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.3/themes.zip) | 2.2 KiB | `other` |
+| [fonts.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.4/fonts.zip) | 5.3 MiB | `other` |
+| [Surge_0.12.4_checksums.txt](https://github.com/surge-downloader/surge/releases/download/v0.12.4/Surge_0.12.4_checksums.txt) | 779 B | `other` |
+| [Surge_0.12.4_darwin_amd64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.4/Surge_0.12.4_darwin_amd64.tar.gz) | 6.3 MiB | `native/darwin/x64` |
+| [Surge_0.12.4_darwin_arm64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.4/Surge_0.12.4_darwin_arm64.tar.gz) | 5.9 MiB | `native/darwin/arm64` |
+| [Surge_0.12.4_linux_386.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.4/Surge_0.12.4_linux_386.tar.gz) | 6.1 MiB | `native/unknown` |
+| [Surge_0.12.4_linux_amd64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.4/Surge_0.12.4_linux_amd64.tar.gz) | 6.3 MiB | `native/linux/x64` |
+| [Surge_0.12.4_linux_arm64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.4/Surge_0.12.4_linux_arm64.tar.gz) | 5.8 MiB | `native/linux/arm64` |
+| [Surge_0.12.4_linux_x86_64.AppImage](https://github.com/surge-downloader/surge/releases/download/v0.12.4/Surge_0.12.4_linux_x86_64.AppImage) | 7.0 MiB | `native/linux/x64` |
+| [Surge_0.12.4_linux_x86_64.AppImage.zsync](https://github.com/surge-downloader/surge/releases/download/v0.12.4/Surge_0.12.4_linux_x86_64.AppImage.zsync) | 21.3 KiB | `native/linux/x64` |
+| [Surge_0.12.4_windows_386.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.4/Surge_0.12.4_windows_386.zip) | 6.3 MiB | `native/win/x64` |
+| [Surge_0.12.4_windows_amd64.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.4/Surge_0.12.4_windows_amd64.zip) | 6.4 MiB | `native/win/x64` |
+| [Surge_0.12.4_windows_arm64.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.4/Surge_0.12.4_windows_arm64.zip) | 5.8 MiB | `native/win/arm64` |
+| [themes.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.4/themes.zip) | 2.2 KiB | `other` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for surge lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:06:08Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:55:11Z._
