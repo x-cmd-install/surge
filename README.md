@@ -14,7 +14,7 @@ x install surge
 
 ## Code insight
 
-Total: **83,925** lines of code across **446** files in the top 5 languages.
+Total: **84,353** lines of code across **446** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -34,31 +34,32 @@ Total: **83,925** lines of code across **446** files in the top 5 languages.
 
 - **Latest**: `v0.12.4` (2026-10-31)
 - **Last commit**: 2026-10-31
-- **Assets in release**: 13
+- **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 3,610 · **Forks**: 159 · **Open issues**: 223 · **Contributors**: 35
+- **Stars**: 3,618 · **Forks**: 159 · **Open issues**: 224 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 414 · **Open PRs**: 7 · **Closed issues**: 183 · **Open issues**: 40 · **Commits**: 666
+- **Releases**: 66 · **Merged PRs**: 416 · **Open PRs**: 14 · **Closed issues**: 183 · **Open issues**: 41 · **Commits**: 668
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-01 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-02 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-04 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-05 | 66 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-10 | 66 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-02 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-02 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-03 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-05 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-06 | 66 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-11 | 66 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
+| [checksums.txt](https://github.com/surge-downloader/surge/releases/download/v0.12.4/checksums.txt) | 779 B | `other` |
 | [fonts.zip](https://github.com/surge-downloader/surge/releases/download/v0.12.4/fonts.zip) | 5.3 MiB | `other` |
 | [Surge_0.12.4_checksums.txt](https://github.com/surge-downloader/surge/releases/download/v0.12.4/Surge_0.12.4_checksums.txt) | 779 B | `other` |
 | [Surge_0.12.4_darwin_amd64.tar.gz](https://github.com/surge-downloader/surge/releases/download/v0.12.4/Surge_0.12.4_darwin_amd64.tar.gz) | 6.3 MiB | `native/darwin/x64` |
@@ -82,4 +83,4 @@ Install metadata for surge lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:55:11Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:22:06Z._
