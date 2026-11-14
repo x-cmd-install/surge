@@ -38,22 +38,22 @@ Total: **84,744** lines of code across **455** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,636 · **Forks**: 161 · **Open issues**: 228 · **Contributors**: 37
+- **Stars**: 3,639 · **Forks**: 161 · **Open issues**: 229 · **Contributors**: 37
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 426 · **Open PRs**: 13 · **Closed issues**: 186 · **Open issues**: 42 · **Commits**: 678
+- **Releases**: 66 · **Merged PRs**: 426 · **Open PRs**: 13 · **Closed issues**: 186 · **Open issues**: 43 · **Commits**: 678
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-14 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-15 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-17 | 15 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-18 | 66 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-23 | 66 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-15 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-15 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-16 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-18 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-19 | 66 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-24 | 66 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for surge lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:10:31Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:49:06Z._
