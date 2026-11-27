@@ -14,11 +14,11 @@ x install surge
 
 ## Code insight
 
-Total: **86,171** lines of code across **463** files in the top 5 languages.
+Total: **86,165** lines of code across **463** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 74,275 | 4,033 | 10,032 | 427 |
+| Go | 74,269 | 4,019 | 10,028 | 427 |
 | Json | 5,463 | 0 | 0 | 9 |
 | TypeScript | 3,421 | 209 | 546 | 18 |
 | Tsx | 1,020 | 4 | 96 | 8 |
@@ -33,27 +33,27 @@ Total: **86,171** lines of code across **463** files in the top 5 languages.
 ## Release
 
 - **Latest**: `ext-v2.1.4` (2026-11-25)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-26
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 3,652 · **Forks**: 160 · **Open issues**: 233 · **Contributors**: 38
+- **Stars**: 3,654 · **Forks**: 161 · **Open issues**: 233 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 448 · **Open PRs**: 9 · **Closed issues**: 188 · **Open issues**: 45 · **Commits**: 700
+- **Releases**: 68 · **Merged PRs**: 449 · **Open PRs**: 8 · **Closed issues**: 188 · **Open issues**: 45 · **Commits**: 701
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-01 | 68 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-06 | 68 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-28 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-02 | 68 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-07 | 68 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for surge lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:05:46Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:33:45Z._
