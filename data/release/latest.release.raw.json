@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1077,
       "digest": "sha256:d8d64757ab7530b06a9daecc7079d1c5c4d9061b07af1a0fad30b3a4f6800d4e",
-      "download_count": 57,
+      "download_count": 69,
       "created_at": "2026-11-24T19:41:52Z",
       "updated_at": "2026-11-24T19:41:52Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.13.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5523214,
       "digest": "sha256:97c3eefd07a0974169ca5fdc8865640ae86c328b47ab8e3904fe04ce0b3633f9",
-      "download_count": 27,
+      "download_count": 33,
       "created_at": "2026-11-24T19:41:53Z",
       "updated_at": "2026-11-24T19:41:54Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.13.0/fonts.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6619038,
       "digest": "sha256:de3a62feeeb78e4cbbed696919e6ac11aaa593864be90a0848e93d47c402b5db",
-      "download_count": 47,
+      "download_count": 55,
       "created_at": "2026-11-24T19:41:49Z",
       "updated_at": "2026-11-24T19:41:50Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.13.0/Surge_0.13.0_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6236991,
       "digest": "sha256:8809557f2ed2a18474f53d7041656fbb5fe69c09be1ed053bfbdc63172e94521",
-      "download_count": 120,
+      "download_count": 140,
       "created_at": "2026-11-24T19:41:49Z",
       "updated_at": "2026-11-24T19:41:50Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.13.0/Surge_0.13.0_darwin_arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6652644,
       "digest": "sha256:129d5f01b77b86b185e41754e319086a7b334c20eee080ab342d9db4004e2fea",
-      "download_count": 249,
+      "download_count": 294,
       "created_at": "2026-11-24T19:41:51Z",
       "updated_at": "2026-11-24T19:41:51Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.13.0/Surge_0.13.0_linux_amd64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6084962,
       "digest": "sha256:30c795112c44107ba9511ec936cb59495c4198d2e9c619d86e71b333d1f34326",
-      "download_count": 54,
+      "download_count": 63,
       "created_at": "2026-11-24T19:41:51Z",
       "updated_at": "2026-11-24T19:41:51Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.13.0/Surge_0.13.0_linux_arm64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 7416312,
       "digest": "sha256:a27a93a9928c3c492acb11a438d749725d0e800ecf28faedd4a1321faf8b10dd",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2026-11-24T19:42:11Z",
       "updated_at": "2026-11-24T19:42:12Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.13.0/Surge_0.13.0_linux_x86_64.AppImage"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 21970,
       "digest": "sha256:67df848ea21b79b68b43b427c47fbbba7e9041ca4c66611d753043640c153466",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-11-24T19:42:11Z",
       "updated_at": "2026-11-24T19:42:11Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.13.0/Surge_0.13.0_linux_x86_64.AppImage.zsync"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 6618431,
       "digest": "sha256:084f48088f3a5c69fae7a62e2f7e4820664193c70e033a3446dafcbce2941ffd",
-      "download_count": 70,
+      "download_count": 85,
       "created_at": "2026-11-24T19:41:52Z",
       "updated_at": "2026-11-24T19:41:53Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.13.0/Surge_0.13.0_windows_386.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 6783611,
       "digest": "sha256:72b6f9265f95b97bb392b872cb2dd4e61b416e78303be68eeb7dbd8b1e19b0a6",
-      "download_count": 224,
+      "download_count": 278,
       "created_at": "2026-11-24T19:41:52Z",
       "updated_at": "2026-11-24T19:41:52Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.13.0/Surge_0.13.0_windows_amd64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 6125730,
       "digest": "sha256:ae9c14b99366d178234e779490ea44cbdc46f8a9cbc45d49eb910488ffeb6526",
-      "download_count": 64,
+      "download_count": 73,
       "created_at": "2026-11-24T19:41:52Z",
       "updated_at": "2026-11-24T19:41:52Z",
       "browser_download_url": "https://github.com/SurgeDM/Surge/releases/download/v0.13.0/Surge_0.13.0_windows_arm64.zip"
